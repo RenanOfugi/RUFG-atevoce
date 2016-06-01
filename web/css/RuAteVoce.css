@@ -1,7 +1,11 @@
-.body{
-    background-color: #EFEFEF;
+body{
+    background-color: #efefef;
 }
 
 #topo{
-    height: 50px;
+    height: 80px;
+}
+
+#logo{
+    margin-top: -12px;
 }
