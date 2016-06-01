@@ -21,45 +21,71 @@
             </div>
         </nav>
 
-        <div class="container saldo text-center">
+        <div class="container-fluid saldo text-center">
             <div class="row">
-                <div class="col-md-12">
-                    <p class="credito_nome">Saldo atual de Alimentação:</p>
+                <div cla    ss="col-md-12">
+                    <p class="credito_nome">Creditos atual de Alimentação:</p>
                     <p class="valor_saldo">56</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <p class="saldo_nome">Creditos atual de Alimentação:</p>
+                    <p class="saldo_nome">Saldo atual de Alimentação:</p>
                     <p class="valor_saldo">R$ 652,46</p>
                 </div>
             </div>
         </div>
 
-        <div class="container extrato">
+        <div class="container-fluid extrato">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="text-center col-md-6 table-responsive">
+                     <table class="table table-hover table-striped">
+                        <tbody>
+                            <tr>
+                                <td>30/Jun<br>Samambaia</td>                                                              
+                                <td>3,00</td>
+                            </tr>
+                            <tr>
+                                <td>29/Jun<br>Samambaia</td>
+                                <td>3,00</td>
+                            </tr>
+                            <tr>
+                                <td>28/Jun<br>Universitario</td>
+                                <td>7,00</td>
 
+                            </tr>
+                            <tr>
+                                <td>Samambaia</td>
+                                <td>3,00</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-3"></div>    
+            </div>
         </div>
 
-        <div class="container text-center">
+        <div class="container-fluid text-center opcoes">
             <div class="row">
-                <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                        <img src="icon/op1.png" alt="...">
-                    </a>
-                    <h4>Oi</h4>
+                <div class="col-md-3"></div>
+                <div class="col-md-3 restaurantes">
+                    <div class="">
+                        <img src="icon/restaurantes.png" alt="...">
+                        <div class="caption">
+                            <h3>RESTAURANTES</h3>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                        <img src="icon/op1.png" alt="...">
-                    </a>
-                    <h4>Oi</h4>
+                <div class="col-md-3 avaliacoes">
+                    <div class="">
+                        <img src="icon/avaliacao.png" alt="...">
+                        <div class="caption">
+                            <h3>AVALIE O RU</h3>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-xs-6 col-md-4">
-                    <a href="#" class="thumbnail">
-                        <img src="icon/op1.png" alt="...">
-                    </a>
-                    <h4>Oi</h4>
-                </div>
+                <div class="col-md-3"></div>
             </div>
         </div>
     </body>
