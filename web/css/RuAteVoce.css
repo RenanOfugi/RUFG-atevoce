@@ -9,3 +9,50 @@ body{
 #logo{
     margin-top: -12px;
 }
+
+.saldo{
+    height: 300px;
+    background: #fff;
+    margin: 0px 0px;
+}
+
+.credito_nome{
+    color: #848484;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.credito_saldo{
+    font-family: 'Museo700', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: #848484;
+
+}
+
+.saldo_nome{
+    color: #848484;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.valor_saldo{
+    font-family: 'Museo700', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: #848484;
+}
+
+.extrato{
+    background: #0d87e9;
+    margin: 10px;
+    height: 300px;
+}
+
+.opcoes{
+     background: #3e8f3e;
+    margin: 10px;
+    height: 200px;
+}
