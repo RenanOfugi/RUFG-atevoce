@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 avaliacoes">
-                    <div class="">
+                    <div class="" onclick="window.location = 'https://docs.google.com/forms/d/1_GpYRgC3zl3-smio7IM-9V6Ovr3KKEo3Mlq2-D8zBGc/viewform?c=0&w=1'">
                         <img src="icon/avaliacao.png" alt="...">
                         <div class="caption">
                             <h3>AVALIE O RU</h3>
