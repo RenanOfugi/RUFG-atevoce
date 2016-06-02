@@ -14,7 +14,8 @@ body{
 
 .saldo{
     background: #efefef;
-    margin-top: 5px;    
+    margin-top: 5px;
+    padding: 30px;
 }
 
 .credito_nome{
@@ -47,7 +48,10 @@ body{
 }
 
 .extrato{
-    margin: 5px;
+    margin-top: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
 }
 
 .opcoes{
@@ -65,4 +69,16 @@ body{
     font-weight: bold;
     font-size: 15px;
     color: #455A64;
+}
+
+@media only screen and (max-width : 480px) {
+  .navbar-header {
+    text-align: center;
+    width: 100%;
+  }
+
+  .logo-container{
+    display: inline-block;
+  }
+
 }

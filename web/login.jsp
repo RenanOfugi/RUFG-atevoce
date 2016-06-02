@@ -1,4 +1,4 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+﻿<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,9 +14,11 @@
             <nav id="topo" class="navbar navbar-inverse navbar-fixed-top" style="background: #455A64;">
                 <div class="container-fluid">
                     <div class="navbar-header">
+                      <div class="logo-container">
                         <a class="navbar-brand" href="index.jsp">
                             <img id="logo" alt="RU-Ate-Voce" src="icon/RU_ate_voce_logo.png">
                         </a>
+                      </div>
                     </div>
                 </div>
             </nav>

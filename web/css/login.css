@@ -12,3 +12,15 @@
 body {
     background: #fafafa;
 }
+
+@media only screen and (max-width : 480px) {
+  .navbar-header {
+    text-align: center;
+    width: 100%;
+  }
+
+  .logo-container{
+    display: inline-block;
+  }
+
+}

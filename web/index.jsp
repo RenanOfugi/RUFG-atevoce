@@ -1,4 +1,4 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+﻿<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,16 +14,18 @@
         <nav id="topo" class="navbar navbar-inverse " style="background: #455A64;">
             <div class="container-fluid">
                 <div class="navbar-header">
+                  <div class="logo-container">
                     <a class="navbar-brand" href="index.jsp">
                         <img id="logo" alt="RU-Ate-Voce" src="icon/RU_ate_voce_logo.png">
                     </a>
+                  </div>
                 </div>
             </div>
         </nav>
 
         <div class="container-fluid saldo text-center">
             <div class="row">
-                <div cla    ss="col-md-12">
+                <div class="col-md-12">
                     <p class="credito_nome">Creditos atual de Alimentação:</p>
                     <p class="valor_saldo">56</p>
                 </div>
@@ -31,38 +33,43 @@
             <div class="row">
                 <div class="col-md-12">
                     <p class="saldo_nome">Saldo atual de Alimentação:</p>
-                    <p class="valor_saldo">R$ 652,46</p>
+                    <p class="valor_saldo">R$ 635,46</p>
                 </div>
             </div>
         </div>
 
-        <div class="container-fluid extrato">
+        <div class="container-fluid extrato text-center">
+          <h2>Extrato</h2>
             <div class="row">
                 <div class="col-md-3"></div>
                 <div class="text-center col-md-6 table-responsive">
                      <table class="table table-hover table-striped">
                         <tbody>
                             <tr>
-                                <td>30/Jun<br>Samambaia</td>                                                              
-                                <td>3,00</td>
+                                <td>30/Jun<br>Samambaia</td>
+                                <td>-3,00</td>
                             </tr>
                             <tr>
                                 <td>29/Jun<br>Samambaia</td>
-                                <td>3,00</td>
+                                <td>-3,00</td>
+                            </tr>
+                            <tr>
+                                <td>29/Jun<br>Recarga/Universitario</td>
+                                <td>+15,00</td>
                             </tr>
                             <tr>
                                 <td>28/Jun<br>Universitario</td>
-                                <td>7,00</td>
+                                <td>-7,00</td>
 
                             </tr>
                             <tr>
                                 <td>Samambaia</td>
-                                <td>3,00</td>
+                                <td>-3,00</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
-                <div class="col-md-3"></div>    
+                <div class="col-md-3"></div>
             </div>
         </div>
 
