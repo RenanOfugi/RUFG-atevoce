@@ -31,12 +31,7 @@
        height="1.0924768"><feGaussianBlur
          stdDeviation="1.1894541"
          id="feGaussianBlur4574" /></filter></defs><metadata
-     id="metadata3"><ns:sfw><ns:slices /><ns:sliceSourceBounds
-         width="120.206"
-         height="61.736"
-         x="631.885"
-         y="391.652"
-         bottomLeftOrigin="true" /></ns:sfw><rdf:RDF><cc:Work
+     id="metadata3"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path
      style="opacity:0.2;fill:#000000;filter:url(#filter4572)"
