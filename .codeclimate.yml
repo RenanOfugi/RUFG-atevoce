@@ -16,4 +16,4 @@ ratings:
   - "**.js"
   - "**.md"
   exclude_paths:
-  - "web/js/bootstrap.js"
+  - "**bootstrap**"
