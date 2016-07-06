@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/RenanOfugi/RUFG-atevoce.svg)](https://github.com/RenanOfugi/RUFG-atevoce/blob/master/LICENSE)
 
-Protótipo de sistema que tem por objetivo facilitar a consulta de saldo dos discentes no Restaurante Universitário(RU) da Universidade Federal de Goiás(UFG).
+Sistema que tem por objetivo facilitar a consulta de saldo dos discentes no Restaurante Universitário(RU) da Universidade Federal de Goiás(UFG).
 
 ##Engenheiros responsáveis
  * Renan Ofugi Mikami
