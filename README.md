@@ -1,4 +1,4 @@
-![RU Até Você](https://cdn.rawgit.com/RenanOfugi/RUFG-atevoce/master/web/icon/RU_ate_voce_banner.svg)
+![RU Até Você](https://rawgit.com/RenanOfugi/RUFG-atevoce/master/web/icon/RU_ate_voce_banner.svg)
 =====================================================================================================
 
 [![Stories in Backlog](https://img.shields.io/github/issues-raw/RenanOfugi/RUFG-atevoce.svg?label=backlog&maxAge=2592000)](https://waffle.io/RenanOfugi/RUFG-atevoce)
