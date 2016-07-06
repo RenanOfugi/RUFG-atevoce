@@ -1,0 +1,19 @@
+engines:
+  markdownlint:
+    enabled: true
+  csslint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - javascript
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "**.css"
+  - "**.js"
+  - "**.md"
+  exclude_paths:
+  - "web/js/bootstrap.js"
