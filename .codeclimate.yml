@@ -3,11 +3,6 @@ engines:
     enabled: true
   csslint:
     enabled: true
-  duplication:
-    enabled: true
-    config:
-      languages:
-      - javascript
   fixme:
     enabled: true
 ratings:
@@ -15,5 +10,4 @@ ratings:
   - "**.css"
   - "**.js"
   - "**.md"
-  exclude_paths:
-  - "**bootstrap**"
+  exclude_paths: []
